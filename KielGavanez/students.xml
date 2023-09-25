@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student>
+        <name> Clarisse Justine Crisostomo </name>
+        <age> 50 </age>
+        <address> Abucay </address>
+    </student>
+    <student>
+        <name> John Lester Enriquez </name>
+        <age> 69 </age>
+        <address> Orion </address>
+    </student>
+    <student>
+        <name> Eiron Matthew Eugenio </name>
+        <age> 20 </age>
+        <address> Samal </address>
+    </student>
+    <student>
+        <name> Carmemla Nicole Bautista </name>
+        <age> 20 </age>
+        <address> Mabatang </address>
+    </student>
+    <student>
+        <name> Frances Riel Julio </name>
+        <age> 20 </age>
+        <address> Orani </address>
+    </student>
+    <student>
+        <name> Lloyd Vincent Atienza </name>
+        <age> 23 </age>
+        <address> Mariveles </address>
+    </student>
+    <student>
+        <name> Paul Reishen Cruz </name>
+        <age> 20 </age>
+        <address> Orani </address>
+    </student>
+</students>
